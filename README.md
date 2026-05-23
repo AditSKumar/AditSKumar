@@ -1,1 +1,1 @@
-![Pic](https://github-readme-stats.vercel.app/api?username=AditSKumar&show_icons=true&theme=dracula)
+[![Adit's GitHub stats](https://github-readme-stats.vercel.app/api?username=AditSKumar)](https://github.com/anuraghazra/github-readme-stats)
