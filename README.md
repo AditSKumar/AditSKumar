@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working as a Senior AI Dev At ZF India<br>
+# About Me:
+I’m currently working as a Senior AI Dev At ZF India<br>
 
 
 ## 🌐 Socials:
